@@ -1,0 +1,28 @@
+{
+  "name": "react-native-firebase_ml",
+  "version": "1.0.2",
+  "description": "Firebase ML native module for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9paradox/react-native-firebase_ml.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Firebase",
+    "ML",
+    "react-native",
+    "native",
+    "firebase-ml"
+  ],
+  "author": "9paradox <@9paradox>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/9paradox/react-native-firebase_ml/issues"
+  },
+  "homepage": "https://github.com/9paradox/react-native-firebase_ml#readme"
+}
